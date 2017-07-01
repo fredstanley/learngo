@@ -9,4 +9,6 @@ func main() {
     fmt.Printf("Test git commit...\n");
 	
 	
+	fmt.Printf("test pull request \n");
+	
 }
